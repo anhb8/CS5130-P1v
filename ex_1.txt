@@ -1,0 +1,6 @@
+Dogs
+D1  Small
+D2  Large
+Vehicles
+V1  Mini   10
+V2  Super  20
